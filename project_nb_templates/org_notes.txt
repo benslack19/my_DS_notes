@@ -1,0 +1,21 @@
+python exploration
+sql
+
+Create project-based templates for...
+
+-supervised
+-unsupervised
+-product analytics
+
+
+Pull notes/snippets out from individual folder notebooks
+
+
+
+add qgrid
+
+import qgrid
+
+## Testing qgrid
+qgrid_widget = qgrid.show_grid(df_state_enrollment_gs_wnces_census, show_toolbar=True)
+qgrid_widget
