@@ -1,0 +1,3 @@
+Some data from here if not taken directly from R package
+
+https://github.com/JWarmenhoven/ISLR-python/tree/master/Notebooks/Data
