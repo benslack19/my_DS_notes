@@ -1,0 +1,3 @@
+[submodule "NLP/pyConTextNLP"]
+	path = NLP/pyConTextNLP
+	url = https://github.com/chapmanbe/pyConTextNLP
